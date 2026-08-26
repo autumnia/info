@@ -43,7 +43,7 @@
 # spec
 - web , 바닐라스크립트사용
 - 예외처리
-- DB는 sqlite, 객체지향 jpa같은
+- DB는 sqlite, seaORM 사용
 - DOP 지향으로 만들어줘
 
    
