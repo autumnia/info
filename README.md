@@ -19,7 +19,7 @@
 - 데이터지향으로 만들어줘
 - modulith 방식 통합 test 추가
 - UI는 Thymeleaf
--  spring security를 사용하되 코멘트 처리해줘
+-  spring security를 사용하되 일단 다 접속가능하게 코멘트 처리해줘
 ```
 
 
