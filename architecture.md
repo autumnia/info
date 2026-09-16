@@ -23,5 +23,10 @@
   Cohesion Principle ( 응집도 원칙 )
     REP ( Reuse/Release Equivalence Principle, 재사용/릴리즈 등가 원 )
     CCP ( Common Closure Principle, 공통 폐쇄 원칙 )
-    CRP ( Common Reuse Principle, 공통 재사용 원칙 ) 
+    CRP ( Common Reuse Principle, 공통 재사용 원칙 )
+
+  Coupling Principle ( 결합 원칙 )
+    ADP ( Acyclic Dependencies Principle, 의존성 비순환 원칙 )
+    SDP ( Stable Dependencies Principle, 안정된 의존성 원칙 )
+    SAP ( Stable Abstractions Principle, 안정된 추상화 원칙 )
 ```
