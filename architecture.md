@@ -9,11 +9,19 @@
   변화에 대비하는 것
 ```
 
-## SOLID
+## SOLID 원칙
 ```html
   S: Single Responsibility Principle( 단일 책임의 원칙 )
   O: Open Close Principle ( 개방 폐쇄 원칙 )
   L: Liskov Substitution Principle ( 리스코프 치환의 원칙 )
   I: Interface Segregation Principle ( 인터페이스 분리의 원칙 )
   D: Dependency Inversion Principle ( 의존성 역전의 원칙 )
+```
+
+## 컴포넌트 원칙
+```html
+  Cohesion Principle ( 응집도 원칙 )
+    REP ( Reuse/Release Equivalence Principle, 재사용/릴리즈 등가 원 )
+    CCP ( Common Closure Principle, 공통 폐쇄 원칙 )
+    CRP ( Common Reuse Principle, 공통 재사용 원칙 ) 
 ```
