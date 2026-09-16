@@ -33,6 +33,6 @@
 
 ## 클린아키텍쳐
 ```html
-https://youngminportfolio.notion.site/image/attachment%3A4e425c6d-2035-43ca-bfb4-0c9f94f36d41%3A%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5_%E1%84%83%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7.jpg?table=block&id=29a21769-0ce1-80ad-a860-d11ca46fe932&spaceId=7f4d58a0-5fe5-4ea3-a48d-8a76600a1a17&width=1410&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl
+  ![img](https://youngminportfolio.notion.site/image/attachment%3A4e425c6d-2035-43ca-bfb4-0c9f94f36d41%3A%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5_%E1%84%83%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7.jpg?table=block&id=29a21769-0ce1-80ad-a860-d11ca46fe932&spaceId=7f4d58a0-5fe5-4ea3-a48d-8a76600a1a17&width=1410&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
 
 ```
