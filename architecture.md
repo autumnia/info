@@ -8,3 +8,12 @@
 ```html
   변화에 대비하는 것
 ```
+
+## SOLID
+```html
+  S: Single Responsibility Principle( 단일 책임의 원칙 )
+  O: Open Close Principle ( 개방 폐쇄 원칙 )
+  L: Liskov Substitution Principle ( 리스코프 치환의 원칙 )
+  I: Interface Segregation Principle ( 인터페이스 분리의 원칙 )
+  D: Dependency Inversion Principle ( 의존성 역전의 원칙 )
+```
