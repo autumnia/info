@@ -33,6 +33,6 @@
 
 ## 클린아키텍쳐
 ```html
-  ![img](https://user-images.githubusercontent.com/85336456/167098230-9789ae84-e64e-4b42-8ded-436b65688a2b.png)
+   [클린아키텍처](https://user-images.githubusercontent.com/85336456/167098230-9789ae84-e64e-4b42-8ded-436b65688a2b.png)
 
 ```
