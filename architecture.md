@@ -34,6 +34,6 @@
 ## 클린아키텍쳐
 ```html
    [클린아키텍처](https://user-images.githubusercontent.com/85336456/167098230-9789ae84-e64e-4b42-8ded-436b65688a2b.png)
-   Entity <-- UseCase <-- Interface & Adaptor <-- Controller, Record(DTO), GateWay
+   Entity <-- UseCase <-- Interface & Adaptor <-- Controller, Record(DTO), GateWay <-- framework, driver
 
 ```
